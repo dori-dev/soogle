@@ -2,6 +2,13 @@
 Google search redesign with HTML & CSS.
 
 
+
+#
+# How to Use
+Open `index.html` with your browser!
+
+
+
 #
 ## Links
 
