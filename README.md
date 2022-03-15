@@ -1,5 +1,5 @@
 # Soogle
-Google search redesign with HTML CSS.
+Google search redesign with HTML & CSS.
 
 
 #
